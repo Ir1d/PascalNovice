@@ -4,8 +4,11 @@
 
 * [为什么学习Pascal](#asdf)
 
+* [为什么学习Pascal](#为什么学习Pascal)
 
-#asdf
+##asdf
+
+##为什么学习Pascal
 
 
 
