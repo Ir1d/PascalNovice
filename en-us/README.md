@@ -1,5 +1,6 @@
 Another Handbook for Pascal OIers.
-=======
+
+--------
 
 This is a handbook for OIers using Pascal to solve problems. You will be provided with useful Pascal skills to help you explore the beauty of OI.
 
