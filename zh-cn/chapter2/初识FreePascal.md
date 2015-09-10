@@ -12,7 +12,7 @@
 
 例如，将以下这一段程序保存到一个`.pas`文件当中，并拖入`Free Pascal`，以此为例介绍`Free Pascal`的基本操作。
 
-```Pascal
+```Delphi
 //程序2_1_1_forever_hello
 begin
 	while true do write('Hello ');
@@ -21,7 +21,7 @@ end.
 
 编译（快捷键F9）：生成程序所对应的可执行文件（*.exe），如成功，会提示与以下类似的信息：
 
-```
+```bash
 Main file: C:\..\desktop\xxx.pas
 Done.
 Target: Win32 for i386
