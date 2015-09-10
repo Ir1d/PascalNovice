@@ -1,4 +1,4 @@
-这是一本给使用Pascal的OIer的入门手册～
+这是一本给使用Pascal的OIer的入门手册
 =======
 
 这本手册是写给用Pascal解题的OIer。在书中你将会找到一些有用的Pascal技巧来帮助你探索OI的魅力。
@@ -11,7 +11,7 @@ gl & hf;
 
 In memory of OI, a never vanished dream!
 
-=======
+--------
 
 >* 相信你们能够创造更多的伟大！
 
