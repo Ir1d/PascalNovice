@@ -12,14 +12,14 @@
 
 例如，将以下这一段程序保存到一个`.pas`文件当中，并拖入`Free Pascal`，以此为例介绍`Free Pascal`的基本操作。
 
-```Delphi
+```delphi
 //程序2_1_1_forever_hello
 begin
 	while true do write('Hello ');
 end.
 ```
 
-编译（快捷键F9）：生成程序所对应的可执行文件（*.exe），如成功，会提示与以下类似的信息：
+编译（快捷键F9）：生成程序所对应的可执行文件（`*.exe`），如成功，会提示与以下类似的信息：
 
 ```bash
 Main file: C:\..\desktop\xxx.pas
@@ -34,7 +34,7 @@ Total errors:     0     Compile time:        0.1s
 
 否则提示相关错误信息。
 
-运行（快捷键Ctrl+F9）：先编译程序，然后运行之。可以用上述程序试验运行结果。可以看到，屏幕上不断地闪着Hello这一单词。
+运行（快捷键Ctrl+F9）：先编译程序，然后运行之。可以用上述程序试验运行结果。可以看到，屏幕上不断地闪着`Hello`这一单词。
 
 Ctrl+C可以用来结束死循环的程序。
 
@@ -71,7 +71,7 @@ fpc --help
 
 要知道，Windows下面的那个`Free Pascal`实际上也是在调用现在这个fpc
 
-不信你在Terminal里面输入fpc
+不信你在Terminal里面输入fp
 
 是不是界面都一模一样阿？
 
