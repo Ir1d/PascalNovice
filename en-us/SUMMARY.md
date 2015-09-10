@@ -1,9 +1,7 @@
 # Summary~Contents
 
-* [Chapter 0~Intro](chapter0/chapter0.md)
-	* [First Things First](chapter0/first.md)
-
-* [Chapter 1](chapter1.md)
+* [Chapter 1~Intro](chapter1/chapter1.md)
+	* [First Things First](chapter1/first.md)
 
 * [Chapter 2](chapter2.md)
 
