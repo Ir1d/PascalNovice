@@ -1,6 +1,7 @@
 # 总结～目录
 
-* [第0章·引子](chapter0.md)
+* [第0章~简介](chapter0/chapter0.md)
+	* [在前边的话](chapter0/first.md)
 
 * [第1章](chapter1.md)
 
