@@ -17,5 +17,5 @@ _book
 
 # mardown
 
-.md~
-.html
+*.md~
+*.html
