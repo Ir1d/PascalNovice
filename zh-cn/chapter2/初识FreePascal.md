@@ -1,4 +1,4 @@
-# 初识FreePascal
+#初识FreePascal
 
 本节内容分两部分，我们先从Windows下更方便的窗口操作说起。
 

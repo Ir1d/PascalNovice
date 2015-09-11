@@ -1,4 +1,4 @@
-# 总结～目录
+#总结～目录
 * [第1章~简介](chapter1/chapter1.md)
 	* [在前边的话](chapter1/在前边的话.md)
 * [第2章~入门](chapter2/chapter2.md)
@@ -14,7 +14,6 @@
 	* [repeat与while](chapter3/repeat与while.md)
 	* [文件操作](chapter3/文件操作.md)
 * [第4章～语言功能](chapter4/chapter4.md)
-	* [杂项](chapter4/杂项.md)
 	* [常用函数](chapter4/常用函数.md)
 	* [常用字符串函数](chapter4/常用字符串函数.md)
 	* [数组](chapter4/数组.md)
