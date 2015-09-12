@@ -16,6 +16,10 @@ In memory of OI, a never vanished dream!
 
 >* 相信你们能够创造更多的伟大！
 
-如果你找到了任何错误，可以留言或者到[我们的Github Repo](https://github.com/imcaffrey/PascalNovice)上边提交Pull Request。
+如果你找到了任何错误，可以到[我们的Github Repo](https://github.com/imcaffrey/PascalNovice)上边提交Pull Request或者开Issue。
 
 如果你正在阅读一个离线版的文档，你可以到[这里](http://PascalNovice.scaffrey.com)找到最新版。
+
+如果上边的链接被墙了，请访问[搬运到GitCafe的版本](http://pascal.scaffrey.com)
+
+
