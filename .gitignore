@@ -19,3 +19,7 @@ _book
 
 *.md~
 *.html
+
+# math
+*.json
+*.json~
