@@ -21,5 +21,4 @@ _book
 *.html
 
 # math
-*.json
 *.json~
