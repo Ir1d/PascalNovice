@@ -18,6 +18,7 @@ _book
 # markdown
 
 *.md~
+*.html~
 *.html
 
 # math
